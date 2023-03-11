@@ -12,7 +12,7 @@ let projects = [
     p: "Functional Tic-Tac-Toe Game with improvements.",
     features: ["Movement history", "Play messages", "Game status"],
     tech: "Made with React, occupying state and props to perform the functionality. The design is made with the Bootstrap framework.",
-    link: "https://www.google.com/",
+    link: "https://vanchi99.github.io/tictac/",
   },
   {
     src: STORE,
@@ -21,7 +21,7 @@ let projects = [
     p: "Inventory Disign for a Store.",
     features: ["List of products", "Manage non-stock products", "Bar Search"],
     tech: "Made with React, occupying state and props to perform the functionality. The design is made with the Bootstrap framework.",
-    link: "https://www.google.com/",
+    link: "https://vanchi99.github.io/mockup-store/",
   },
   {
     src: WORKOUT,
@@ -30,7 +30,7 @@ let projects = [
     p: "Program to save the progress of your exercises in the gym.",
     features: ["Database", "History", ""],
     tech: "Made with React, occupying state and props to perform the functionality. The design is made with the Bootstrap framework. Supabase is used to the back-end.",
-    link: "https://www.google.com/",
+    link: "https://vanchi99.github.io/workout/",
   },
 ];
 function Projects({ id }) {
