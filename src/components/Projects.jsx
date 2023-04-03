@@ -3,8 +3,22 @@ import { Title } from "./Titles";
 import GATO from "../assets/Tic-Tac.png";
 import STORE from "../assets/Store.png";
 import WORKOUT from "../assets/Workout.png";
+import POKEDEX from "../assets/Pokedex.png";
 
 let projects = [
+  {
+    src: POKEDEX,
+    alt: "My pokedex",
+    h5: "Pokedex",
+    p: "Functional Tic-Tac-Toe Game with improvements.",
+    features: [
+      "Use API pokedex",
+      "Design only CSS/Responsive Design",
+      "Async functions",
+    ],
+    tech: "Made with React, occupying state and props to perform the functionality. The design is made with only CSS framework, responsive design.",
+    link: "https://vanchi99.github.io/pokedex/",
+  },
   {
     src: GATO,
     alt: "Tic-Tac-Toe",
