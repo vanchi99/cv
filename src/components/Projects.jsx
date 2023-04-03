@@ -10,7 +10,7 @@ let projects = [
     src: POKEDEX,
     alt: "My pokedex",
     h5: "Pokedex",
-    p: "Functional Tic-Tac-Toe Game with improvements.",
+    p: "Pokedex created using PokeAPI.",
     features: [
       "Use API pokedex",
       "Design only CSS/Responsive Design",
